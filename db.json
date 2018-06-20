@@ -1,0 +1,36 @@
+{
+"obj": [
+    {
+           "name":"A",
+            "online":false,
+            "age":21
+        },
+        {
+            "name":"B",
+            "online":true,
+            "age":21
+        },
+        {
+            "name":"C",
+            "online":true,
+            "age":25
+        },
+        {
+            "name":"D",
+            "online":false,
+            "age":28
+        },
+        {   "name":"E",
+            "online":true,
+            "age":32
+        },
+        {
+            "name":"F",
+            "online":false,
+            "age":24
+        }
+
+]
+}
+       
+    
