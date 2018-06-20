@@ -6,12 +6,17 @@
             "age":23
         },
         {
-            "name":"Justin",
+            "name":"Arnoldo",
             "online":true,
             "age":21
         },
         {
-            "name":"neo",
+            "name":"Brad pitt",
+            "online":true,
+            "age":25
+        },
+     {
+            "name":"Calvin Harris",
             "online":true,
             "age":25
         },
